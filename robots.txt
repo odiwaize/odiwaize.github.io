@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odiwaize.github.io/RxE/sitemap_index.txt
+Sitemap: https://odiwaize.github.io/tWM/sitemap_index.txt
+Sitemap: https://odiwaize.github.io/tYk/sitemap_index.txt
+Sitemap: https://odiwaize.github.io/ypj/sitemap_index.txt
